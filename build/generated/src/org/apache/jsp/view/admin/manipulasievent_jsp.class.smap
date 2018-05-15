@@ -1,0 +1,14 @@
+SMAP
+manipulasievent_jsp.java
+JSP
+*S JSP
+*F
++ 0 manipulasievent.jsp
+view/admin/manipulasievent.jsp
+*L
+5,37:44
+42:81,2
+43,106:83
+149:189,2
+150,6:191
+*E
